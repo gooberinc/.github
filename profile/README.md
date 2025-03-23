@@ -1,7 +1,7 @@
 ## hello there
 ![Goober](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgoober.whatdidyouexpect.eu%2Flatest_version.json&query=%24.version&label=Latest%20Version%20(goober)&color=blue&style=plastic&logo=github)
 [![Discord](https://img.shields.io/discord/1319031097757012009?style=plastic&label=goober%20land)](https://discord.gg/KUAVEcDDa2)
-![Static Badge](https://img.shields.io/badge/wiki-purple)(https://wiki.goober.whatdidyouexpect.eu)
+![Static Badge](https://img.shields.io/badge/wiki-purple)](https://wiki.goober.whatdidyouexpect.eu)
 
 
 <br>
