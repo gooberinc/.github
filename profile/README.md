@@ -3,6 +3,8 @@ repos about a silly little bot thats a cheapo knockoff of genai (realized this a
 you can make pull requests and ill check them (probably?)
 
 the wiki is at [this url](https://wiki.goober.whatdidyouexpect.eu)
+![Goober](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgoober.whatdidyouexpect.eu%2Flatest_version.json&query=%24.version&label=Latest%20Version%20(goober)&color=blue&style=flat-square&logo=github)
+![Discord](https://img.shields.io/discord/1319031097757012009?style=plastic&label=goober%20land)
 
 <!--
 
