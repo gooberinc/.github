@@ -1,14 +1,14 @@
 ## hello there
 ![Goober](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgoober.whatdidyouexpect.eu%2Flatest_version.json&query=%24.version&label=Latest%20Version%20(goober)&color=blue&style=plastic&logo=github)
 [![Discord](https://img.shields.io/discord/1319031097757012009?style=plastic&label=goober%20land)](https://discord.gg/KUAVEcDDa2)
+![Static Badge](https://img.shields.io/badge/wiki-purple)(https://wiki.goober.whatdidyouexpect.eu)
 
 
 <br>
 
-repos about a silly little bot thats a cheapo knockoff of genai (realized this after a week into making this..)
-you can make pull requests and ill check them (probably?)
+Repository center about a silly little bot thats a cheapo knockoff of genai (realized this after a week into making this..)
+You could make pull requests and i'll check them (probably?)
 
-the wiki is at [this url](https://wiki.goober.whatdidyouexpect.eu)
 <br>
 
 <!--
